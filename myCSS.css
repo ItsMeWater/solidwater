@@ -11,13 +11,13 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #0083F3;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
-	height: 80px;
+	height:  px;
 	
 }
 .nav {
@@ -34,7 +34,6 @@ body {
 	margin: 0px;
 	float: left;
 	width: 100%;
-	height: 400px;
 	text-align: center;
 }
 .footer {
